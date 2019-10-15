@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
 
 	char buffer[4];
 
-    // copy argument string to buffer
+    	// copy argument string to buffer
 	// with unsafe string copy func
 	strcpy(buffer, argv[1]);
 
